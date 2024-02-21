@@ -1,3 +1,22 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+body {
+    background-color: #1f1f1f;
+    padding: 5rem 1rem;
+    font-family: Inter;
+}
+
+.card {
+    background-color: #333333;
+    width: 300px;
+    height: 500px;
+
 }
