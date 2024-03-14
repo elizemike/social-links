@@ -85,5 +85,3 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 - Frontend Mentor - [elizemike](https://www.frontendmentor.io/profile/elizemike)
 
 
-
-
